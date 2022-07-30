@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaanmkhan2@gmail.com)
 
 ### About Me 👨🏾
-- 🎓 I'm pursuing my B.S. in Computer Science at the University of Illinois at Urbana-Champaign
+- 🎓 I'm pursuing my B.S. in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/)
 - 🧑‍🏫 I'm currently a Team Mentor / Course Assistant for CS 222: Software Design Lab
 - 🏎️ I'm the Spatial Perception Team Lead at Illini EV Concept, where we're developing an autonomous electric car from scratch
 - 🌱 I'm currently learning about Quantum Computing and Blockchain
