@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Amaan Khan
+### Hi there 👋, I'm Amaan Khan
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaankhan02/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaanmkhan2@gmail.com)
@@ -6,11 +6,9 @@
 ### About Me 👨🏾
 - 🎓 I'm pursuing my B.S. in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/)
 - 🌱 I'm currently learning about Quantum Computing and Blockchain
-- 🤖 Really interested in Robotics and Artificial Intelligence 
+- 🤖 I'm really interested in Robotics and Artificial Intelligence 
 - 🏏 I enjoy playing Cricket, longboarding, and reading
 - 🤹🏽 Fun Fact: I can juggle
-- 🧑‍🏫 I'm currently a Team Mentor / Course Assistant for CS 222: Software Design Lab
-- 🏎️ I'm the Spatial Perception Team Lead at Illini EV Concept, where we're developing an autonomous electric car from scratch
 
 ### Skills 👨‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
