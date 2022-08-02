@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaankhan02/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaanmkhan2@gmail.com)
+[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:amaanmk2@illinois.edu)
 
 ### About Me 👨🏾
 - 🎓 I'm pursuing my B.S. in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/)
@@ -9,7 +10,7 @@
 - 🤖 I'm really interested in Robotics and Artificial Intelligence 
 - 🏏 I enjoy playing Cricket, longboarding, and reading
 - 🤹🏽 Fun Fact: I can juggle
-- Feel free to connect with me or shoot me an email! I'm always looking to collaborate with others on fun projects!
+- 📧 Feel free to send me a message! I'm always looking to collaborate with others or learn about new opportunities!
 
 ### Skills 👨‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
