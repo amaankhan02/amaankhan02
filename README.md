@@ -9,6 +9,7 @@
 - 🤖 I'm really interested in Robotics and Artificial Intelligence 
 - 🏏 I enjoy playing Cricket, longboarding, and reading
 - 🤹🏽 Fun Fact: I can juggle
+- Feel free to connect with me or shoot me an email! I'm always looking to collaborate with others on fun projects!
 
 ### Skills 👨‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
