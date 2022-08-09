@@ -36,5 +36,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
+<!--
+### Leetcode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/amaankhan02?theme=nord&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/amaankhan02?theme=auto&font=baloo&extension=null)
+^^ These came from https://leetcode.card.workers.dev/. You just generate and then click Markdown and paste that link in there
+-->
 <!-- https://github.com/Ileriayo/markdown-badges -->
