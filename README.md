@@ -36,6 +36,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaankhan02&label=Profile%20views&color=0e75b6&style=flat" alt="amaankhan02" /> </p> 
 <!--
 ### Leetcode Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/amaankhan02?theme=nord&font=baloo&extension=null)
