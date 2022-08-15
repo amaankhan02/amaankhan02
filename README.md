@@ -38,7 +38,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaankhan02&label=Profile%20views&color=0e75b6&style=flat" alt="amaankhan02" /> </p> 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaankhan02&label=Profile%20views&color=0e75b6&style=flat" alt="amaankhan02" /> </p> -->
 <!--
 ### Leetcode Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/amaankhan02?theme=nord&font=baloo&extension=null)
