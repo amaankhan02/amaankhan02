@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Amaan Khan
+<!-- ### Hi there 👋, I'm Amaan Khan
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaankhan02/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaanmkhan2@gmail.com)
@@ -46,3 +46,4 @@
 ^^ These came from https://leetcode.card.workers.dev/. You just generate and then click Markdown and paste that link in there
 -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
+ -->
