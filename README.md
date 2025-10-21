@@ -30,7 +30,9 @@
 
 
 ### About Me 
-Hi, I'm Amaan Khan, a student at the University of Illinois Urbana-Champaign. I'm currently pursuing a Masters Degree in Computer Science at the Grainger College of Engineering. 
+Hi, I'm Amaan Khan, a Software Engineer at Meta working on ML Serving Infra for Ads. I am a UIUC alum with a Master's and Bachelor's degree in 
+Computer Science from the Grainger College of Engineering.
+
 
 ### Technologies 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
